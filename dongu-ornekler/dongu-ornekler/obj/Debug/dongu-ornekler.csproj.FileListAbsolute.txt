@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\bin\Debug\dongu-ornekler.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\bin\Debug\dongu-ornekler.exe
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\bin\Debug\dongu-ornekler.pdb
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu-ornekler.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu_ornekler.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu_ornekler.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu-ornekler.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu-ornekler.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu-ornekler.exe
+C:\Users\student\Desktop\Ahmet\ntp\dongu-ornekler\dongu-ornekler\obj\Debug\dongu-ornekler.pdb
